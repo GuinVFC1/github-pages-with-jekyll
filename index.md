@@ -1,3 +1,3 @@
 # First test
 
-Learning about git hub
+Learning about GitHub
